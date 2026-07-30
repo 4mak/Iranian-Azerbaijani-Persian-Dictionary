@@ -14,10 +14,8 @@
 
 هر واژه در این قالب نوشته می‌شود:
 
-*واژه و تلفظ*
-
-*معنی و توضیحات*
-
+> ***واژه و تلفظ***  
+> *معنی و توضیحات*
 ---
 
 تمرکز اصلی این فرهنگ لغت بر ترکی آذری تبریزی است.
@@ -31,7 +29,7 @@
 * حفظ واژه‌های قدیمی و محلی
 
 ## فهرست واژگان
-الف - ب - پ - ت - ث - ج - چ - ح - خ - د - ذ - ر - ز - ژ - س - ش - ص - ض - ط - ظ - ع - غ - ف - ق - ک - گ - ل - م - ن - و - ه - ی - ئ
+[الف](dictionary/الف.md) - [ب](dictionary/ب.md) - [پ](dictionary/پ.md) - [ت](dictionary/ت.md) - [ث](dictionary/ث.md) - [ج](dictionary/ج.md) - [چ](dictionary/چ.md) - [ح](dictionary/ح.md) - [خ](dictionary/خ.md) - [د](dictionary/د.md) - [ذ](dictionary/ذ.md) - [ر](dictionary/ر.md) - [ز](dictionary/ز.md) - [ژ](dictionary/ژ.md) - [س](dictionary/س.md) - [ش](dictionary/ش.md) - [ص](dictionary/ص.md) - [ض](dictionary/ض.md) - [ط](dictionary/ط.md) - [ظ](dictionary/ظ.md) - [ع](dictionary/ع.md) - [غ](dictionary/غ.md) - [ف](dictionary/ف.md) - [ق](dictionary/ق.md) - [ک](dictionary/ک.md) - [گ](dictionary/گ.md) - [ل](dictionary/ل.md) - [م](dictionary/م.md) - [ن](dictionary/ن.md) - [و](dictionary/و.md) - [ه](dictionary/ه.md) - [ی](dictionary/ی.md) - [ئ](dictionary/ئ.md)
 
 ## مشارکت
 

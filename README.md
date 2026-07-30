@@ -1,6 +1,6 @@
 # فرهنگ لغت ترکی آذری به فارسی
 
-[English readme](https://github.com/4mak/Iranian-Azerbaijani-Persian-Dictionary/blob/main/README.en.md)
+[English readme](README.en.md)
 
 ## دربارهٔ پروژه
 
